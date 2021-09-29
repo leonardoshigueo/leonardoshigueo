@@ -10,3 +10,9 @@
    <img height"180em" src="https://github-readme-stats.vercel.app/api?username=leonardoshigueo&show_icons=true&theme=dark&include_all_comits=true&count_private=true"/>
    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoshigueo&layout=compact&langs_count=16&theme=dark"/>
 </div>
+
+##
+
+<div>
+   <a href="https://www.facebook.com/leonardo.shigueo.16/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"target="_blank"></a>
+</div>
